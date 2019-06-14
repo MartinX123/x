@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1542664783 source:c:\users\user\desktop\tp3\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Biblioteca.h"
+
+1542664783 c:\users\user\desktop\tp3\biblioteca.h
+
+1560539372 source:c:\users\user\desktop\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Menu.h"
+
+1542664783 c:\users\user\desktop\tp3\linkedlist.h
+
+1542664783 c:\users\user\desktop\tp3\employee.h
+
+1542664783 c:\users\user\desktop\tp3\parser.h
+
+1542664783 c:\users\user\desktop\tp3\menu.h
+
+1542664783 source:c:\users\user\desktop\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1542664783 source:c:\users\user\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Menu.h"
+
+1542664783 c:\users\user\desktop\tp3\controller.h
+
+1542664783 source:c:\users\user\desktop\tp3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1542664783 source:c:\users\user\desktop\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Biblioteca.h"
+
